@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "See yuou Soon!"
 date:   2023-08-11 10:35:25 -0500
 categories: jekyll update
 ---
